@@ -1,0 +1,7 @@
+E:\c# projects\CSharpConcepts\Generics\bin\Debug\Generics.exe.config
+E:\c# projects\CSharpConcepts\Generics\bin\Debug\Generics.exe
+E:\c# projects\CSharpConcepts\Generics\bin\Debug\Generics.pdb
+E:\c# projects\CSharpConcepts\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+E:\c# projects\CSharpConcepts\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\c# projects\CSharpConcepts\Generics\obj\Debug\Generics.exe
+E:\c# projects\CSharpConcepts\Generics\obj\Debug\Generics.pdb

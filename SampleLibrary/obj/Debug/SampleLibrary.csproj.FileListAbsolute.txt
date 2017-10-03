@@ -1,0 +1,6 @@
+E:\c# projects\CSharpConcepts\SampleLibrary\bin\Debug\SampleLibrary.dll
+E:\c# projects\CSharpConcepts\SampleLibrary\bin\Debug\SampleLibrary.pdb
+E:\c# projects\CSharpConcepts\SampleLibrary\obj\Debug\SampleLibrary.csprojResolveAssemblyReference.cache
+E:\c# projects\CSharpConcepts\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+E:\c# projects\CSharpConcepts\SampleLibrary\obj\Debug\SampleLibrary.dll
+E:\c# projects\CSharpConcepts\SampleLibrary\obj\Debug\SampleLibrary.pdb

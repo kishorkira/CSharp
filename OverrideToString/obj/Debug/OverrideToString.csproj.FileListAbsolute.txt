@@ -1,0 +1,6 @@
+E:\c# projects\CSharpConcepts\OverrideToString\bin\Debug\OverrideToString.exe.config
+E:\c# projects\CSharpConcepts\OverrideToString\bin\Debug\OverrideToString.exe
+E:\c# projects\CSharpConcepts\OverrideToString\bin\Debug\OverrideToString.pdb
+E:\c# projects\CSharpConcepts\OverrideToString\obj\Debug\OverrideToString.csproj.CoreCompileInputs.cache
+E:\c# projects\CSharpConcepts\OverrideToString\obj\Debug\OverrideToString.exe
+E:\c# projects\CSharpConcepts\OverrideToString\obj\Debug\OverrideToString.pdb

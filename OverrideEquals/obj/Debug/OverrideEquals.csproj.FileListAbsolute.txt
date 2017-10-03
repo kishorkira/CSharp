@@ -1,0 +1,7 @@
+E:\c# projects\CSharpConcepts\OverrideEquals\bin\Debug\OverrideEquals.exe.config
+E:\c# projects\CSharpConcepts\OverrideEquals\bin\Debug\OverrideEquals.exe
+E:\c# projects\CSharpConcepts\OverrideEquals\bin\Debug\OverrideEquals.pdb
+E:\c# projects\CSharpConcepts\OverrideEquals\obj\Debug\OverrideEquals.csprojResolveAssemblyReference.cache
+E:\c# projects\CSharpConcepts\OverrideEquals\obj\Debug\OverrideEquals.csproj.CoreCompileInputs.cache
+E:\c# projects\CSharpConcepts\OverrideEquals\obj\Debug\OverrideEquals.exe
+E:\c# projects\CSharpConcepts\OverrideEquals\obj\Debug\OverrideEquals.pdb

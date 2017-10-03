@@ -1,0 +1,7 @@
+E:\c# projects\CSharpConcepts\Partial\bin\Debug\Partial.exe.config
+E:\c# projects\CSharpConcepts\Partial\bin\Debug\Partial.exe
+E:\c# projects\CSharpConcepts\Partial\bin\Debug\Partial.pdb
+E:\c# projects\CSharpConcepts\Partial\obj\Debug\Partial.csprojResolveAssemblyReference.cache
+E:\c# projects\CSharpConcepts\Partial\obj\Debug\Partial.csproj.CoreCompileInputs.cache
+E:\c# projects\CSharpConcepts\Partial\obj\Debug\Partial.exe
+E:\c# projects\CSharpConcepts\Partial\obj\Debug\Partial.pdb
